@@ -1,0 +1,17 @@
+
+body {
+    
+    background-color: tan;
+    color: maroon;
+  }
+  body {
+    font-family: 'Secular One', sans-serif;
+    font-size: 30px;
+  }
+  a {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    transform: translate(0%, 210%);
+  }
+  
